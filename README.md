@@ -17,7 +17,7 @@ Angular, React, Next.js, Node.js, Flask, NumPy, Pandas, Selenium
 ## 📫 Contact
 
 - Check out my [Personal Website](#) to learn more about me and my projects
-- Explore my projects right here on [GitHub](https://github.com/yourusername)
+- Explore my projects right here on [GitHub](https://github.com/somshrivastava)
 - Let’s connect on [LinkedIn](https://www.linkedin.com/in/somshrivastava)
 
 Feel free to reach out—I'm always open to new ideas, feedback, or just chatting about tech!
