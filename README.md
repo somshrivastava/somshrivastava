@@ -1,6 +1,6 @@
 # Hi! I’m Som Shrivastava
 
-I'm a first-year Computer Science and Mathematics student at Northeastern University. Whether it’s turning ideas into web apps, learning about scalable systems, or exploring how tech can drive impact, I'm always up for a challenge.
+I'm a second-year Computer Science and Mathematics student at Northeastern University. Whether it’s turning ideas into web apps, learning about scalable systems, or exploring how tech can drive impact, I'm always up for a challenge.
 
 ---
 
