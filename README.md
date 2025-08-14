@@ -13,6 +13,6 @@ I’m a second-year **Computer Science & Mathematics** student at **Northeastern
 
 ---
 
-- ##  GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somshrivastava&theme=radical)](https://git.io/streak-stats)
