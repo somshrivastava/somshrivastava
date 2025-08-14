@@ -2,11 +2,7 @@
 
 I’m a second-year **Computer Science & Mathematics** student at **Northeastern University**, passionate about building web apps, exploring scalable systems, and tech-driven impact. Always curious, always learning.
 
----
-
-##  GitHub Stats & Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somshrivastava&theme=radical)](https://git.io/streak-stats)
+[LinkedIn](https://www.linkedin.com/in/somshrivastava)  
 
 ---
 
@@ -17,30 +13,6 @@ I’m a second-year **Computer Science & Mathematics** student at **Northeastern
 
 ---
 
-##  Projects I'm Proud Of
+- ##  GitHub Stats & Activity
 
-- **[Project Name 1](#)** – Short description of your project’s purpose or impact.  
-- **[Project Name 2](#)** – Brief highlight of features or technologies used.
-
-*(Make sure to pin these for visibility!)*
-
----
-
-##  Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/somshrivastava)  
-- [Portfolio](#) (if any)  
-Let’s chat about tech, ideas, or collaboration opportunities!
-
----
-
-##  What I’m Currently Working On
-
-- Enhancing my automated trading project (Zerodha-oriented)
-- Learning deployment with frameworks like Next.js and Vercel
-
----
-
-##  Fun Fact
-
-⚡ I once tried simulating my GitHub profile in a terminal using a neofetch-style script that refreshes daily (and yes, it animates!) :contentReference[oaicite:15]{index=15}
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somshrivastava&theme=radical)](https://git.io/streak-stats)
