@@ -6,7 +6,6 @@ I’m a second-year **Computer Science & Mathematics** student at **Northeastern
 
 ##  GitHub Stats & Activity
 
-![Som’s GitHub stats](https://github-readme-stats.vercel.app/api?username=somshrivastava&show_icons=true&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somshrivastava&theme=radical)](https://git.io/streak-stats)
 
 ---
