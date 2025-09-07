@@ -1,18 +1,28 @@
-# Hi there, I’m **Som Shrivastava** 👋
+<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/d3aee88b-c5be-492b-a071-619e9effa8ad" /># 👋 Hi, I’m Som Shrivastava  
 
-I’m a second-year **Computer Science & Mathematics** student at **Northeastern University**, passionate about building web apps, exploring scalable systems, and tech-driven impact. Always curious, always learning.
+I’m a **Computer Science + Mathematics student at Northeastern University** passionate about building impactful software and exploring quantitative finance. My experience spans **web development, algorithmic trading automation, and scalable systems**, with a strong foundation in **data structures, algorithms, and system design**.  
 
-[LinkedIn](https://www.linkedin.com/in/somshrivastava)  
+## Technical Interests
+- Full-stack development (Angular, React, Node.js, Flask, Next.js, Prisma, Supabase)  
+- Quantitative finance & algorithmic trading (options strategies, delta-hedging, backtesting)  
+- Scalable systems & infrastructure (Docker, GCP, Firebase, Cloudflare Tunnels)  
 
----
+## Skills & Tools
+- **Languages:** Python, TypeScript, JavaScript, Java, C++
+- **Frameworks & Libraries:** Flask, NumPy, Pandas, Selenium, Angular, React.js, Next.js, Node.js, Express.js, Prisma, NgRx
+- **Services & Tolls:** Git, GitHub, Jira, Docker, Google Cloud Platform, Firebase, Supabase, Postman, Figma, Vercel, VS Code
 
-##  Tech Stack
+## Current Focus
+- Preparing for **Spring 2026 co-op** and **Summer 2026 SWE/Quant internships**  
+- Advancing skills in **low-level programming, reinforcement learning, and quantitative modeling**  
+- Expanding portfolio of **finance-oriented and development projects**  
 
-- **Languages:** TypeScript · JavaScript · Python · Java · HTML · CSS · DrRacket  
-- **Frameworks & Tools:** React · Angular · Next.js · Node.js · Flask · NumPy · Pandas · Selenium
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
 
-##  GitHub Stats & Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somshrivastava&theme=radical)](https://git.io/streak-stats)
+## Connect with Me
+- [Email](mailto:som.shrivastava@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/som-shrivastava)  
+- [GitHub](https://github.com/yourusername)  
