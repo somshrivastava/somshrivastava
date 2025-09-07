@@ -17,21 +17,6 @@ I’m a **Computer Science + Mathematics student at Northeastern University** pa
 - Advancing skills in **low-level programming, reinforcement learning, and quantitative modeling**  
 - Expanding portfolio of **finance-oriented and development projects**  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-</p>
-
 ## Connect with Me
 - [Email](mailto:som.shrivastava@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/som-shrivastava)    
