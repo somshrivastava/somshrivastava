@@ -1,4 +1,4 @@
-<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/d3aee88b-c5be-492b-a071-619e9effa8ad" /># 👋 Hi, I’m Som Shrivastava  
+# 👋 Hi, I’m Som Shrivastava  
 
 I’m a **Computer Science + Mathematics student at Northeastern University** passionate about building impactful software and exploring quantitative finance. My experience spans **web development, algorithmic trading automation, and scalable systems**, with a strong foundation in **data structures, algorithms, and system design**.  
 
