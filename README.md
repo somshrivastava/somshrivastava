@@ -15,7 +15,11 @@ I’m a **Computer Science + Mathematics student at Northeastern University** pa
 ## Current Focus
 - Preparing for **Spring 2026 co-op** and **Summer 2026 SWE/Quant internships**  
 - Advancing skills in **low-level programming, reinforcement learning, and quantitative modeling**  
-- Expanding portfolio of **finance-oriented and development projects**  
+- Expanding portfolio of **finance-oriented and development projects**
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somshrivastava&theme=default&show_icons=true&hide_border=true&layout=compact" alt="somshrivastava's GitHub Stats" />
 
 ## Connect with Me
 - [Email](mailto:som.shrivastava@gmail.com)  
