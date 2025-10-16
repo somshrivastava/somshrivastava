@@ -20,7 +20,3 @@ I’m a **Computer Science + Mathematics student at Northeastern University** pa
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somshrivastava&theme=default&show_icons=true&hide_border=true&layout=compact" alt="somshrivastava's GitHub Stats" />
-
-## Connect with Me
-- [Email](mailto:som.shrivastava@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/som-shrivastava)    
