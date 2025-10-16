@@ -12,11 +12,6 @@ I’m a **Computer Science + Mathematics student at Northeastern University** pa
 - **Frameworks & Libraries:** Flask, NumPy, Pandas, Selenium, Angular, React.js, Next.js, Node.js, Express.js, Prisma, NgRx
 - **Services & Tolls:** Git, GitHub, Jira, Docker, Google Cloud Platform, Firebase, Supabase, Postman, Figma, Vercel, VS Code
 
-## Current Focus
-- Preparing for **Spring 2026 co-op** and **Summer 2026 SWE/Quant internships**  
-- Advancing skills in **low-level programming, reinforcement learning, and quantitative modeling**  
-- Expanding portfolio of **finance-oriented and development projects**
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somshrivastava&theme=default&show_icons=true&hide_border=true&layout=compact" alt="somshrivastava's GitHub Stats" />
