@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Som Shrivastava  
 
-I’m a **Computer Science + Mathematics student at Northeastern University** passionate about building impactful software and exploring quantitative finance. My experience spans **web development, algorithmic trading automation, and scalable systems**, with a strong foundation in **data structures and algorithms.
+I’m a **Computer Science + Mathematics student at Northeastern University** passionate about building impactful software and exploring quantitative finance. My experience spans **web development, algorithmic trading automation, and building scalable systems**.
 
 ## Technical Interests
 - Full-stack development (Angular, React, Node.js, Flask, Next.js, Prisma, Supabase)  
